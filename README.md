@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TotalGoat
-- 👀 I’m interested in cybersecurity?
+- 👀 I’m interested in cybersecurity!
 - 🌱 I’m currently learning network fundamentals, bash, and a variety of other topics through Georgia Tech's cybersecurity bootcamp program. 
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... 
